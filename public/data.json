@@ -1,0 +1,23 @@
+[
+    {   
+        "id":1,
+        "title":"Some Beautiful Title from Index",
+        "description":"some random text to fill this paraghraph",
+        "image":"https://lh3.googleusercontent.com/proxy/n-7nORfeVQNXq4EtH91qzGUNWv7d1iVeR_sf1vPWj_zyzbHMbfuRx_jTdKAvE1W2pBFpQCJpbX03uWctQ0y-JrC7wwRs_fzbQ7n7jQ",
+        "color":"#FF6555"
+    },
+    {
+        "id":2,
+        "title":"Some Other Title",
+        "description":"some random text to fill this second paraghraph",
+        "image":"https://www.pngfind.com/pngs/m/44-442178_transparent-bear-png-png-download.png",
+        "color":"#996555"
+    },
+    {
+        "id":3,
+        "title":"Last Title I'm Tired",
+        "description":"some random text to fill this third paraghraph",
+        "image":"https://i.pinimg.com/originals/ea/b7/54/eab7546483023d44ba5c1f713a664239.png",
+        "color":"#126555"
+    }
+]
